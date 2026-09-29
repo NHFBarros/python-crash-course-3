@@ -54,3 +54,9 @@ dicionario = {
     'if':'caso se'
 }
 
+## aqui vai ser dicionarios. bacana :> Obs.: dicionarios não são que nem objetos. (Merge do git)
+
+## alien_0 = {'color': 'green', 'points': 5}
+
+## print(alien_0['color'])
+## print(alien_0['points'])
